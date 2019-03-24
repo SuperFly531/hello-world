@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Bla bla bla and co. Also, I love tacos.
